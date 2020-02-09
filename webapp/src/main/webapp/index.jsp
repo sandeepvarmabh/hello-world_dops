@@ -1,2 +1,1 @@
-<h1> Dhrithi is here one more month to go! we nailed it </h1>
-<h2> Dhrithi 10month birthday </h2>
+<h1> Dhrithi i did it completed CICD using jenkins  </h1>
